@@ -5,7 +5,7 @@ $(document).ready(function() {
     });
       $(".download").on("click", function() {
      var a = document.createElement('a');
-  a.href = "https://ibb.co/dhQN3o";
+  a.href = "https://preview.ibb.co/eF1vOo/Robert_and_Jennifer_2_1.jpg";
   a.download = "wedding.jpg";
   document.body.appendChild(a);
   a.click();
