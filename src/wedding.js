@@ -5,7 +5,7 @@ $(document).ready(function() {
     });
       $(".download").on("click", function() {
      var a = document.createElement('a');
-  a.href = "././images/wedding.jpg";
+  a.href = "https://github.com/leenMalka/ourWedding/blob/master/images/wedding.jpg";
   a.download = "wedding.jpg";
   document.body.appendChild(a);
   a.click();
